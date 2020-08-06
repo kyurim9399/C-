@@ -1,0 +1,37 @@
+//==============================================
+// Name:           kyurim kim
+// Student Number: 168819183
+// Email:          kkim125@myseneca.ca
+// Section:        NQQ
+// Date:           2019.10.29
+//==============================================
+// Assignment:     1
+// Milestone:      2
+//==============================================
+
+
+It was a good assignment to have time to practice structure once again.
+Using scanf, it was possible to compare the use of & for array input and & when variable is int.
+The most difficult thing was to use [^\n] when including space.
+When I first got a clear keyboard, I was embarrassed because I didn't know why it was like this.
+
+
+Maybe I don't know much, so I don't know if there's a better way to ask 
+to add information to the data field without using structure.
+I think it's good to use structure because I can combine various information.
+There are many variables of different types,
+but since it is one person's information,
+storing it in one place is more efficient in managing the information.
+
+
+A string is a sequence of characters treated as a single entity and is terminated by a null character (‘\0’).
+For example, string[3]= “hi”;
+Character (char) is a primitive data type in C that is used to store a character value. 
+An array is defined as a finite collection of homogeneous data, stored in contiguous memory locations.
+C language however doesn’t support string as a data type. We can implement strings as array of characters.
+For example, array[2]={'h','i'};
+When I attempt to display the contents of a primitive character array (not a C string) using the printf specifier “%s”,
+the unknown characters are also printed along with 'hi'.
+
+
+

@@ -1,0 +1,26 @@
+//==============================================
+// Name:           kyurim kim
+// Student Number: 168819183
+// Email:          kkim125@myseneca.ca
+// Section:        NQQ
+// Date:           2019.11.07
+//==============================================
+// Assignment:     1
+// Milestone:      4
+//==============================================
+
+The structure and function were used this assignment to produce the same result as the previous assignment.
+When I did my last assignment, I never thought I could use a function to make the same result.
+It was harder than I thought to write down the code because I was not used to using functions and pointers.
+On the one hand, it was amazing that I could create different ways of code to produce the same result.
+
+In this assignment, another structure called contact was added.
+I think when we call the function from a1ms4.c, we added a structure called contact to write down the parameters more simply.
+Thus, it was possible to express 'structure something' simply as a 'contact'.
+Because code should be easy to understand by anyone.
+
+The reasons why this is a bad design are as follows.
+First, if the structure is large and I am passing structure variables frequently
+then it can take quite a bit of time which make the program inefficient.
+Second, Additional memory is required to save every copy of the structure.
+

@@ -1,0 +1,36 @@
+//==============================================
+// Name:           kyurim kim
+// Student Number: 168819183
+// Email:          kkim125@myseneca.ca
+// Section:        NQQ
+// Date:           2019.11.24
+//==============================================
+// Assignment:     2
+// Milestone:      4
+//==============================================
+Doing this assignment was a good opportunity to create a function of various uses.
+Trying to create various functions was a very valuable exercise.
+
+Using the findContactIndex and getTemDigitPhone functions has been very helpful in the source code.
+First, use functions to avoid duplication of code.
+For example, there is a 50-line function. If I want to use the function again in another section, it becomes 100 lines.
+If I use it again, there are 150 lines.
+However, using functions only requires one line, which makes the code simpler.
+This simplified code is readable for other developers.
+
+Second, a function written once can be reused multiple times.
+Functions used when using some program development may be needed when doing other development.
+In this case, I can save time because I can import the function I used previously or use a little modification.
+
+Finally, maintenance becomes easier.
+The function allows the entire program to be divided into modules, making the development process easier and more systematic.
+If an update is required or an error occurs, the function requires only one modification.
+It is easier to manage as a whole source code.
+
+If fewer of the contact information to manage this task, it is unlikely to be required.
+But I think If necessary, to this assignment in a lot of contact information.
+Sometimes we enter the data incorrectly by mistakes.
+If I use this assignment, when I input the character in cellphone number,
+the error message pops up telling me to write down the number.
+Terefore, we can fill out the appropriate informaion in the data file.
+Also, when I enter a phone number, I can see all the infromation of the person who dorresponds to that phone number.

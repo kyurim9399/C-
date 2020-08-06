@@ -1,0 +1,32 @@
+//==============================================
+// Name:           kyurim kim
+// Student Number: 168819183
+// Email:          kkim125@myseneca.ca
+// Section:        NQQ
+// Date:           2019.11.12       
+//==============================================
+// Assignment:     2
+// Milestone:      2
+//==============================================
+
+In this assignment I learned how to implement a function and how it is used in other code.
+I think we were able to use the function to make the code more detailed.
+In addition, it is easier to read the code that was used repeatedly by using a function.
+
+A function is a part of a code that performs a specific function in the C program.
+The C standard library provides numerous built-in functions that are called a standard function.
+A function that the user creates and uses is called a user-defined function.
+The reason for using functions is to make it easy to manage repeated codes.
+If we only use it once, it would be easier and faster to enter the variable in the main.
+However, if we use the code a lot like 100 or 200 times, we can create code easier and shorter without long code by declaring a function.
+Also, once we create a function, we can reuse it later when we make other programs.
+
+The functions defined in the "helper" are required to briefly represent the codes of the "contact".
+However, the "helper" functions are stored separately because I think they are less relevant to the code flow of "contacts".
+It is difficult to write down the code at once if the program we have to create is large or complex.
+To implement a program, analyze the functions required for the implementation and design various modules based on the analysis results.
+And we have to build a program using a well-diviede module.
+A well-designed program requires that each module consists only of code that is related to each other,
+and that it is less relevant to other modules.
+By dividing the program into smaller-sized module,
+the scope of the change can be reduced and smaller when the source code needs to be changed due to a problem.

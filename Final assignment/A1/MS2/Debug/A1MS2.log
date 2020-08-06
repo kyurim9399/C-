@@ -1,0 +1,3 @@
+﻿  a1ms2.c
+F:\IPC 144\MS2\a1ms2.c(32,9): warning C4477:  'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'int'
+  A1MS2.vcxproj -> F:\IPC 144\MS2\Debug\A1MS2.exe
