@@ -1,0 +1,28 @@
+//==============================================
+// Name:           kyurim kim
+// Student Number: 168819183
+// Email:          kkim125@myseneca.ca
+// Section:        NQQ
+// Workshop:       3 (at-home)
+//==============================================
+
+I coded without using pseudo-coding.
+I first wrote a statement in Visual Studio that I thought could do this.
+Then, I used Debug to check the results and made minor modifications continuously.
+So I spent a lot of time coding.
+Perhaps I didn't understand the iteration exactly, so I didn't know which command to put in it to get the result I wanted.
+If I am more faithful to the basics and grasp the itemization properly, I will be able to code it faster by thinking about the whole.
+
+
+I used while construct in my at home assignment.
+Of the three iterations, the one that I'm still familiar with is While construct.
+Especially, it was easier to use because it was similar to if construct when condition is one.
+For c0nstruct needs to write initializaion, condition, and change at once, which is not yet familiar to me.
+
+
+I liked the fact that I didn't have to keep writing things over and over again.
+And the process of thinking about writing it in simpler coding was interesting.
+It was like solving a math problem.
+The hard part was thinking like a computer.
+It is very easy for me to find the average, or find the maximum and minimum temperatures.
+But computers had to compare numbers one by one to find the maximum temperature, which was a little hard to think about.
