@@ -1,0 +1,22 @@
+//==============================================
+// Name:           kyurim kim
+// Student Number: 168819183
+// Email:          kkim125@myseneca.ca
+// Section:        NQQ
+// Workshop:       2 (at-home)
+//==============================================
+
+I learned how I can do casting through this workshop.
+Also I learned how to set a variable set to a double to an int.
+It was difficult to convert floating-point values to integers.
+In particular, the part that I had to add 0.005 was that I never thought of.
+Rather than just seeing a variety of expressions in books, it was easier to understand.
+
+Because computers use binary, they have limitations in expressing decimal parts.
+Therefore, numbers cannot be represented exactly like integers.
+It's a good idea to convert floatin-point values to integers for more accurate calculations.
+
+I think the expression is simpler.
+In fact, to get the remainder, we need to subtract the divisor times the quotient from the dividend.
+remainder = dividend - (divisor * quotient)
+This complex expression can be obtained with a single symbol like %.
