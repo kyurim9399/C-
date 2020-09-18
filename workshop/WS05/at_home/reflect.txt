@@ -1,0 +1,33 @@
+//==============================================
+// Name:           kyurim kim
+// Student Number: 168819183
+// Email:          kkim125@myseneca.ca
+// Section:        NQQ
+// Workshop:       5 (at-home)
+//==============================================
+
+The type of id and age of employee is int and the type of salary is double. 
+If we tried to use array instead of structure,
+it would have been difficult to collect these different types of variables. 
+The good thing about tying it is that when you sand data to a function,
+we just cross over the structure. 
+This has the advantage of being able to change the data that we want to deliver
+without changing the declaration of the function,
+even if we add parameters to the function later.
+This is because only one field needs to be added or deleted in the structure declaration. 
+It is also readable because we only need to put name of structures
+in the a parentheses-enclosed list of parameters of function.
+
+
+In addition to the method of declaring a structure declaration to a c file,
+there is a method of storing it in a separate file called a header file.
+The good thing about this is that the structure
+we declared can be applied to more than one source code, not just one source file.
+Also, when we need to modify it, we only need to modify it in the header file. 
+
+It was a little hard to use the things I learned earlier in this assignment.
+But it was good to have a chance to review once more.
+When I removed employee information in case 4, I only initialized employee information.
+However, that way, they were not able to enter information from new employees.
+I thought I'd have to be more specific when I wrote the code.
+ 
